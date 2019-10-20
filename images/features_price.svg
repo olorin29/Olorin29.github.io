@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="64px" viewBox="0 0 88 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>low-prices</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="55.4634005 16.6937706 25.941925 47.7562937 10.539416 31.5497599 40.0608915 0.487236771"></polygon>
+        <rect id="path-2" x="9" y="26" width="55" height="43" rx="6"></rect>
+        <rect id="path-3" x="9" y="33" width="55" height="29"></rect>
+        <path d="M47,47.5 C47,42.8055796 50.8089231,39 55.4962993,39 L67,39 L67,56 L55.4962993,56 C50.8039228,56 47,52.1848682 47,47.5 L47,47.5 Z" id="path-4"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="low-prices">
+            <g transform="translate(10.000000, -5.000000)">
+                <g id="Group-8" transform="translate(33.982963, 30.870590) rotate(-15.000000) translate(-33.982963, -30.870590) translate(5.982963, 6.870590)">
+                    <path d="M37.8146766,22.9872205 L35.1106116,7.03746296 L30.0189502,1.68001227 L1.87705395,31.2909409 L15.8999837,46.0458801 L37.8146766,22.9872205 Z" id="Rectangle-21" stroke="#3C3C3C" stroke-width="2"></path>
+                    <g id="Rectangle-21">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#3C3C3C" stroke-width="2" d="M54.0838212,16.6937706 L40.0608915,1.93883132 L11.9189952,31.5497599 L25.941925,46.3046992 L54.0838212,16.6937706 Z"></path>
+                    </g>
+                </g>
+                <polygon id="Rectangle-25" fill="#DCDCDC" points="23.6091329 23 29.7786532 23 28.1445033 26 22 26"></polygon>
+                <polygon id="Rectangle-25-Copy" fill="#DCDCDC" points="32.0533578 23 52.9212965 23 51.283833 26 30.4251326 26"></polygon>
+                <g id="Rectangle-20">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#3C3C3C" stroke-width="2" x="10" y="27" width="53" height="41" rx="6"></rect>
+                </g>
+                <g id="Rectangle-23">
+                    <use fill="#FF3C41" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#3C3C3C" stroke-width="2" x="10" y="34" width="53" height="27"></rect>
+                </g>
+                <g id="Rectangle-24">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#3C3C3C" stroke-width="2" d="M66,55 L66,40 L55.4962993,40 C51.3594874,40 48,43.3595849 48,47.5 C48,51.6361535 51.359774,55 55.4962993,55 L66,55 Z"></path>
+                </g>
+                <path d="M66.5195699,49.886972 L67,56 L57.1693811,55.3944387 C53.024946,55.3944387 48.5187485,54.0206792 48.5187485,49.886972 L66.5195699,49.886972 Z" id="Rectangle-24" fill="#DCDCDC"></path>
+                <path d="M66,55 L66,40 L55.4962993,40 C51.3594874,40 48,43.3595849 48,47.5 C48,51.6361535 51.359774,55 55.4962993,55 L66,55 Z" id="Rectangle-24" stroke="#3C3C3C" stroke-width="2"></path>
+                <circle id="Oval-10-Copy" stroke="#3C3C3C" stroke-width="2" cx="55.5" cy="47.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

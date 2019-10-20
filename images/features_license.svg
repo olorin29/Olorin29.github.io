@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="64px" viewBox="0 0 88 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>all-official</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,4.00348663 C0,1.79242202 1.79405245,0 4.00989318,0 L43.9901068,0 C46.2047097,0 48,1.79537646 48,4.00348663 L48,59.9965134 C48,62.207578 46.2059475,64 43.9901068,64 L4.00989318,64 C1.79529033,64 0,62.2046235 0,59.9965134 L0,4.00348663 Z" id="path-1"></path>
+        <polygon id="path-2" points="8 8 40 8 52 20 52 64 8 64"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all-official">
+            <g transform="translate(18.000000, 0.000000)" id="Group-2">
+                <g>
+                    <g id="Rectangle">
+                        <use fill="#FF3C41" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#3C3C3C" stroke-width="2" d="M1,4.00348663 L1,59.9965134 C1,61.6531152 2.34835286,63 4.00989318,63 L43.9901068,63 C45.6535452,63 47,61.6554097 47,59.9965134 L47,4.00348663 C47,2.34688484 45.6516471,1 43.9901068,1 L4.00989318,1 C2.34645477,1 1,2.34459027 1,4.00348663 Z"></path>
+                    </g>
+                    <g id="Rectangle-9">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#3C3C3C" stroke-width="2" d="M9,9 L9,63 L51,63 L51,20.4142136 L39.5857864,9 L9,9 Z"></path>
+                    </g>
+                    <rect id="Rectangle-5" fill="#DCDCDC" x="10" y="10" width="29" height="4"></rect>
+                    <rect id="Rectangle-5" fill="#DCDCDC" x="38" y="22" width="12" height="3"></rect>
+                    <polyline id="Rectangle-2" stroke="#3C3C3C" stroke-width="2" points="52 21 39 21 39 8 39 8"></polyline>
+                    <path d="M32,43 L44,43" id="Line-Copy" stroke="#3C3C3C" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M32,49 L44,49" id="Line-Copy" stroke="#3C3C3C" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M32,55 L38,55" id="Line-Copy" stroke="#3C3C3C" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M29,24 L18,24 L18,33.0068977 C18,34.6576461 19.3423142,35.9973695 21.0015842,35.9999961 L21.351477,36.00055 L23.5,37.7193736 L25.6485227,36.0005502 L25.9984152,35.9999961 C27.6574098,35.9973689 29,34.6573074 29,33.0068977 L29,24 Z" id="Combined-Shape" stroke="#3C3C3C" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
